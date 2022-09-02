@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2d23c4f5-fdbb-4bd1-bdfa-54b8221ec87b" name="Changes" comment="Creación de la funcionalidad de división">
+    <list default="true" id="2d23c4f5-fdbb-4bd1-bdfa-54b8221ec87b" name="Changes" comment="Corrección de la funcionalidad de división">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/co/edu/unisabana/example/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/co/edu/unisabana/example/Principal.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -116,7 +115,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662133001805</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Corrección de la funcionalidad de división">
+      <created>1662136438204</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1662136438204</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -136,6 +142,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="suma" />
     <MESSAGE value="Creación de la funcionalidad de división" />
-    <option name="LAST_COMMIT_MESSAGE" value="Creación de la funcionalidad de división" />
+    <MESSAGE value="Corrección de la funcionalidad de división" />
+    <option name="LAST_COMMIT_MESSAGE" value="Corrección de la funcionalidad de división" />
   </component>
 </project>
