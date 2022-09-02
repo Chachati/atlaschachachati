@@ -1,5 +1,4 @@
 package co.edu.unisabana.example;
-
 public class Principal {
     public static void main(String[] args) {
         int EsPush = 4;
@@ -12,6 +11,9 @@ public class Principal {
         System.out.println(resultantRest);
         int resultantDiv = EsPush / NoPull;
         System.out.println(resultantDiv);
+        int resultantMult = EsPush * NoPull;
+        System.out.println(resultantMult);
+
 
 
     }

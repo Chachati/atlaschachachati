@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2d23c4f5-fdbb-4bd1-bdfa-54b8221ec87b" name="Changes" comment="Corrección de la funcionalidad de división">
+    <list default="true" id="2d23c4f5-fdbb-4bd1-bdfa-54b8221ec87b" name="Changes" comment="Corrección de la funcionalidad de multiplicacion">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/co/edu/unisabana/example/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/co/edu/unisabana/example/Principal.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +47,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/migue/Downloads/atlaschachachati&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/falabella/Downloads/atlaschachachati&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   }
 }</component>
@@ -122,7 +123,21 @@
       <option name="project" value="LOCAL" />
       <updated>1662136438204</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Corrección de la funcionalidad de división">
+      <created>1662140390925</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1662140390925</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Corrección de la funcionalidad de multiplicacion">
+      <created>1662140410763</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1662140410763</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -143,6 +158,7 @@
     <MESSAGE value="suma" />
     <MESSAGE value="Creación de la funcionalidad de división" />
     <MESSAGE value="Corrección de la funcionalidad de división" />
-    <option name="LAST_COMMIT_MESSAGE" value="Corrección de la funcionalidad de división" />
+    <MESSAGE value="Corrección de la funcionalidad de multiplicacion" />
+    <option name="LAST_COMMIT_MESSAGE" value="Corrección de la funcionalidad de multiplicacion" />
   </component>
 </project>
