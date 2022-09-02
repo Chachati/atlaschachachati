@@ -1,10 +1,14 @@
 package co.edu.unisabana.example;
 
-public class Principal {
+class Multijava {
     public static void main(String[] args) {
         int EsPush = 1;
         int NoPull = 2;
-        int resultant = EsPush + NoPull;
+        int resultant = EsPush * NoPull;
         System.out.println(resultant);
+    }
+
+    public int suma(){
+        return 0;
     }
 }
