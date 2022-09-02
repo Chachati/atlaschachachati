@@ -1,15 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="2d23c4f5-fdbb-4bd1-bdfa-54b8221ec87b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/co/edu/unisabana/example/Principal.java" afterDir="false" />
-    </list>
+    <list default="true" id="2d23c4f5-fdbb-4bd1-bdfa-54b8221ec87b" name="Changes" comment="suma" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,6 +19,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="26977d9a-35d8-4f13-a613-62d9469126ad" />
+        <option name="url" value="https://github.com/Chachati/atlaschachachati.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -41,6 +44,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/Diana/Documents/GitHub/atlaschachachati",
     "nodejs_package_manager_path": "npm"
   }
 }]]></component>
@@ -74,6 +78,28 @@
       <updated>1662090170293</updated>
       <workItem from="1662090171713" duration="161000" />
     </task>
+    <task id="LOCAL-00001" summary="suma">
+      <created>1662131330812</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1662131330812</updated>
+    </task>
+    <task id="LOCAL-00002" summary="suma">
+      <created>1662131608125</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1662131608125</updated>
+    </task>
+    <task id="LOCAL-00003" summary="suma">
+      <created>1662132050215</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1662132050215</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -89,5 +115,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="suma" />
+    <option name="LAST_COMMIT_MESSAGE" value="suma" />
   </component>
 </project>
