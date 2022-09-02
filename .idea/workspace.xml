@@ -51,8 +51,8 @@
   }
 }</component>
   <component name="RunManager">
-    <configuration name="Principal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="co.edu.unisabana.example.Principal" />
+    <configuration name="Multijava" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="co.edu.unisabana.example.Multijava" />
       <module name="example" />
       <extension name="coverage">
         <pattern>
@@ -66,7 +66,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Principal" />
+        <item itemvalue="Application.Multijava" />
       </list>
     </recent_temporary>
   </component>
