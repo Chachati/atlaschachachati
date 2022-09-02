@@ -10,5 +10,6 @@ class Multijava {
 
     public int suma(){
         return 0;
+
     }
 }
